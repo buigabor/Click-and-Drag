@@ -12,4 +12,4 @@ HTML5, CSS, Vanilla JS
 
 # Website
 
-https://buigabor.github.io/stripe-follow/
+https://buigabor.github.io/Click-and-Drag/
